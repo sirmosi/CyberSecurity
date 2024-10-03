@@ -1,1 +1,1 @@
-## Some Script used for Ethical hacking
+## Some Scripts used for Ethical hacking
